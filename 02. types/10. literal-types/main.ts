@@ -1,3 +1,6 @@
+// This is great approach that help developer to avoid typos
+// and cool code documentation
+
 function printText(s: string, alignment: "left" | "right" | "center") {
     // ...
   }
